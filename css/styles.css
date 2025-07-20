@@ -147,6 +147,14 @@ ul{
 .footer-section{
     background-color: var(--color-navy_blue);
 }
+.footer-logo{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--color-cloud);
+}
 .footer-paragrafs{
     line-height: 1.5;
     letter-spacing: 0.02em;
