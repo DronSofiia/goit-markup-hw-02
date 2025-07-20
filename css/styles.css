@@ -41,20 +41,7 @@ ul{
     text-transform: uppercase;
     font-family: var(--second-fonts);
 }
-.header-nav-li-studio{
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--color-navy_blue);
-}
-.header-nav-li-studio:hover,
-.header-nav-li-studio:focus{
-    color: var(--color-ocean); 
-}
-.header-nav-li-studio:active{
-    color: var(--color-ocean);
 
-}
 .header-nav-li{
     font-weight: 500;
     line-height: 1.5;
